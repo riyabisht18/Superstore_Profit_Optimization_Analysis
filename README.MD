@@ -28,9 +28,7 @@ I analyzed **5,009 retail transactions** using **SQL Server** and discovered tha
 
 *   **Financial Impact:** Instantly eliminates the $135K loss and adds **$177K** to the bottom line.
 *   **Operational Cost:** **$0**. (This is a policy change, not a marketing expense).
-*   **Strategy:** Shift from blanket discounts to VIP perks for "Champion" customers to maintain loyalty.
 
----
 
 ## 🛠️ Tech Stack & Skills
 *   **SQL Server:** CTEs, Window Functions (`LAG`, `OVER`), Aggregate Functions, Data Cleaning.
@@ -49,5 +47,6 @@ I analyzed **5,009 retail transactions** using **SQL Server** and discovered tha
 ### 🚀 Conclusion
 
 This project demonstrates how data analysis can solve business problems. A simple, data-backed policy change achieves the **20% margin goal** and increases annual profit by **62%**.
+
 
 
