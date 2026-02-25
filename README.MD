@@ -15,7 +15,7 @@ I analyzed **5,009 retail transactions** using **SQL Server** and discovered tha
 
 ---
 
-## 🔍 Key Findings (The "Why")
+## 🔍 Key Findings 
 1.  **The "Profit Cliff":** Discounts **>20%** turn profitable sales into losses. This bleeds **$135,000 annually**.
 2.  **Loyalty is Strong:** RFM Segmentation shows **59% of customers are Champions or Loyal**.
 3.  **Retention Rate:** At **98.5%**, the data proves customers value the brand quality over cheap prices, making it safe to reduce discounts.
@@ -23,7 +23,7 @@ I analyzed **5,009 retail transactions** using **SQL Server** and discovered tha
 
 ---
 
-## 💡 The Solution (The "How")
+## 💡 The Solution 
 **Recommendation: Implement a strict 20% Discount Cap.**
 
 *   **Financial Impact:** Instantly eliminates the $135K loss and adds **$177K** to the bottom line.
@@ -49,4 +49,5 @@ I analyzed **5,009 retail transactions** using **SQL Server** and discovered tha
 ### 🚀 Conclusion
 
 This project demonstrates how data analysis can solve business problems. A simple, data-backed policy change achieves the **20% margin goal** and increases annual profit by **62%**.
+
 
